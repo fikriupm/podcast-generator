@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Fikri Podcast Generator"
 author: "Fikri UPM"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
